@@ -113,3 +113,16 @@ OTHER
 ├── Integrations
 ├── Existing Codebases
 └── Bug Fixing
+---
+```
+### CURRENTLY BUILDING
+Upwork Opportunity Scanner
+Private AI-powered job scanner designed to:
+- analyze complete job descriptions
+- understand semantic job fit
+- compare jobs against real development experience
+- detect low-competition opportunities
+- generate personalized proposals
+- rank jobs by technical fit and opportunity score
+Built with:
+Next.js TypeScript PostgreSQL Prisma Ollama
