@@ -12,7 +12,7 @@ Building modern web apps, internal systems and AI-powered products.
 
 ---
 
-## 01 / ABOUT
+## / ABOUT
 
 I build complete products from frontend to backend.
 
@@ -22,7 +22,7 @@ Focused on clean architecture, practical solutions and shipping working software
 
 ---
 
-## 02 / STACK
+## / STACK
 
 ### Frontend
 `React` `Next.js` `TypeScript` `JavaScript` `Tailwind` `shadcn`
@@ -41,7 +41,7 @@ Focused on clean architecture, practical solutions and shipping working software
 
 ---
 
-## 03 / SELECTED WORK
+## / SELECTED WORK
 
 ### Claude Live Follow
 
@@ -87,7 +87,7 @@ Trading-focused web application with modern responsive UI.
 
 ---
 
-## 04 / WHAT I BUILD
+## / WHAT I BUILD
 
 ```text
 WEB APPS
