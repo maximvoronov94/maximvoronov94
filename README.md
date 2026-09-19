@@ -1,41 +1,115 @@
-# Hi, I'm Max 👋
+<div align="center">
 
-Full-Stack & AI Developer building production web apps, business systems, automation and developer tools.
+# MAX DEV
 
-## What I work with
+### Full-Stack Developer · AI · Automation · Developer Tools
 
-- React / Next.js
-- TypeScript / JavaScript
-- Node.js / Express / NestJS
-- Python / FastAPI
-- PostgreSQL / SQL / Supabase / Prisma
-- REST APIs / Webhooks / Authentication
-- AI / LLM integrations
-- CRM / ERP / Inventory systems
-- Automation
-- VS Code extensions / Claude Code tooling
-- Web3 / Crypto applications
+Building modern web apps, internal systems and AI-powered products.
 
-## Selected Projects
+[Portfolio](https://mvdev.click) · [GitHub](https://github.com/maximvoronov94)
+
+</div>
+
+---
+
+## 01 / ABOUT
+
+I build complete products from frontend to backend.
+
+My work includes web applications, CRM/ERP systems, automation, AI integrations, developer tools and Web3 products.
+
+Focused on clean architecture, practical solutions and shipping working software.
+
+---
+
+## 02 / STACK
+
+### Frontend
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind` `shadcn`
+
+### Backend
+`Node.js` `Express` `NestJS` `Python` `FastAPI`
+
+### Database
+`PostgreSQL` `SQL` `Supabase` `Prisma`
+
+### AI & Automation
+`Claude` `OpenAI` `LLM APIs` `AI Agents` `Webhooks` `Automation`
+
+### Other
+`REST APIs` `Authentication` `RBAC` `Git` `Deployment` `Web3`
+
+---
+
+## 03 / SELECTED WORK
 
 ### Claude Live Follow
-VS Code extension for following Claude Code file activity, edits and hooks in real time.
 
-https://marketplace.visualstudio.com/items?itemName=mvdev.claude-live-follow
+Developer tool for VS Code that follows Claude Code activity in real time.
 
-### Spec Wallet
-Production Web3 / wallet application.
+Tracks files being read, created and edited using Claude Code hooks.
 
-https://specwallet.com
+**Focus:**  
+`VS Code Extension` `Claude Code` `Developer Tools` `TypeScript`
 
-### Spets Trading
-Trading-focused web application.
+[View Extension →](https://marketplace.visualstudio.com/items?itemName=mvdev.claude-live-follow)
 
-https://spets-trading.vercel.app
+---
 
 ### AI Retail OS / CRM
-CRM / ERP platform with inventory, warehouses, permissions, customer service, automation and AI workflows.
 
-## Portfolio
+Business platform covering CRM, inventory, warehouses, customers, orders, permissions, reporting and AI workflows.
 
-https://mvdev.click
+**Focus:**  
+`CRM` `ERP` `PostgreSQL` `Automation` `AI` `Internal Tools`
+
+---
+
+### Spec Wallet
+
+Web3 application with wallet workflows, APIs and dashboards.
+
+**Focus:**  
+`Web3` `Crypto` `APIs` `Full Stack`
+
+[View Project →](https://specwallet.com)
+
+---
+
+### Spets Trading
+
+Trading-focused web application with modern responsive UI.
+
+**Focus:**  
+`React` `Trading` `Dashboard` `Full Stack`
+
+[View Project →](https://spets-trading.vercel.app)
+
+---
+
+## 04 / WHAT I BUILD
+
+```text
+WEB APPS
+├── Frontend
+├── Backend
+├── APIs
+└── Databases
+
+BUSINESS SYSTEMS
+├── CRM
+├── ERP
+├── Inventory
+└── Internal Tools
+
+AI
+├── LLM Integrations
+├── AI Agents
+├── Automation
+└── Developer Tools
+
+OTHER
+├── Web3
+├── Integrations
+├── Existing Codebases
+└── Bug Fixing
