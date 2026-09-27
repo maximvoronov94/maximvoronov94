@@ -34,6 +34,7 @@ Quality         Playwright • Vitest • Code review
 ```
 
 ## 📊 GitHub activity
+
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maximvoronov94&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=06B6D4&text_color=94A3B8)
@@ -57,7 +58,9 @@ A frontend dashboard for monitoring and exploring AI-assisted crypto trading wor
 I'm interested in frontend development, AI integrations, CRM systems and e-commerce products. Feel free to connect with me through GitHub.
 
 <div align="center">
-
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-mvdev.click-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mvdev.click/#top)
+  
 [![GitHub](https://img.shields.io/badge/GitHub-AItradingc-181717?style=for-the-badge&logo=github)](https://github.com/AItradingc)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24)
