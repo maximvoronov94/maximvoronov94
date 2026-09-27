@@ -35,15 +35,11 @@ Quality         Playwright • Vitest • Code review
 
 ## 📊 GitHub activity
 
-<div align="center">
+![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maximvoronov94&theme=github_dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maximvoronov94&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=06B6D4&text_color=94A3B8)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maximvoronov94&theme=github_dark)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximvoronov94&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=94A3B8)
-
-![GitHub streak](https://streak-stats.demolab.com?user=maximvoronov94&theme=transparent&hide_border=true&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED&sideLabels=94A3B8&dates=64748B)
-
-</div>
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maximvoronov94&theme=github_dark)
 
 ## 📌 Featured work
 
